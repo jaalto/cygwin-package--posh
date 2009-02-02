@@ -7,5 +7,5 @@ administrative shell scripts in /etc/init.d adhered to the policy
 guidelines: POSIX compliance with few exceptions like the use of
 'local' keyword. For this reason the manual page announces
 'Policy-compliant Ordinary SHell'.
-category: Shells
+category: Interpreters Shells
 requires: cygwin
