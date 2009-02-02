@@ -38,6 +38,7 @@ Upstream contact:
 
 License:
   GPL
+  Contains code from pdksh 5.2.14, which is "in the public domain."
 
 Language:
   C
