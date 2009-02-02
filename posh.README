@@ -54,14 +54,18 @@ Build instructions:
 ------------------------------------------
 
 Files included in the binary distribution:
-  <See content of *.tar.gz>
+  See Cygwin package archive
 
 ------------------------------------------
 
 Port Notes:
 
+----- version 0.6.15-1 -----
+- New upstream release 2009-02-02 Jari Aalto
+- Install to /bin instead of /usr/bin
+
 ----- version 0.6-1 -----
 - Initial release 2008-02-19 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2009 Jari Aalto; Licensed under GPL v2 or later
