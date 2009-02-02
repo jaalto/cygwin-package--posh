@@ -1,11 +1,16 @@
 posh
 ------------------------------------------
 
-Near POSIX compliant SHell
+Almost POSIX compliant SHell
 
 A stripped-down version of pdksh that aims for close compliance of
 POSIX. Posh is intended to be used for revealing if /bin/sh scripts
-use features that most /bin/sh shells do not have.
+use features that most /bin/sh shells do not have. Originally this
+shell was developed by the Debian project to ensure that
+administrative shell scripts in /etc/init.d adhered to the policy
+guidelines: POSIX compliance with few exceptions like the use of
+'local' keyword. For this reason the manual page announces
+'Policy-compliant Ordinary SHell'.
 
 Runtime requirements:
   cygwin
