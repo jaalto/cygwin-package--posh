@@ -1,0 +1,6 @@
+sdesc: "Almost POSIX compliant SHell"
+ldesc: "A stripped-down version of pdksh that aims for close compliance of
+POSIX. Posh is intended to be used for revealing if /bin/sh scripts
+use features that most /bin/sh shells do not have."
+category: Interpreters
+requires: cygwin

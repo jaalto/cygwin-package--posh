@@ -1,0 +1,62 @@
+posh
+------------------------------------------
+
+Near POSIX compliant SHell
+
+A stripped-down version of pdksh that aims for close compliance of
+POSIX. Posh is intended to be used for revealing if /bin/sh scripts
+use features that most /bin/sh shells do not have.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://packages.debian.org/unstable/posh
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Clint Adams <schizo@debian.org>
+  Bugs: Clint Adams <schizo@debian.org>
+
+License:
+  GPL
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack posh-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./posh*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  <See content of *.tar.gz>
+
+------------------------------------------
+
+Port Notes:
+
+----- version 0.6-1 -----
+- Initial release 2008-02-19 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
