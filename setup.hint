@@ -8,4 +8,4 @@ guidelines: POSIX compliance with few exceptions like the use of
 'local' keyword. For this reason the manual page announces
 'Policy-compliant Ordinary SHell'."
 category: Interpreters Shells
-requires: cygwin
+
