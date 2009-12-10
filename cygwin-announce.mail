@@ -1,6 +1,6 @@
 -- Copyright (C) 2008-2009 Jari Aalto; Licenced under GPL v2 or later
 To: cygwin-announce@cygwin.com
-Subject: Updated: posh 0.6.15-1 -- Almost POSIX compliant SHell
+Subject: Updated: posh 0.8.4-1 -- Almost POSIX compliant SHell
 
 PACKAGE DESCRIPTION
 ===================
@@ -10,12 +10,7 @@ License : GPL
 
 A stripped-down version of pdksh that aims for close compliance of
 POSIX. Posh is intended to be used for revealing if /bin/sh scripts
-use features that most /bin/sh shells do not have. Originally this
-shell was developed by the Debian project to ensure that
-administrative shell scripts in /etc/init.d adhered to the policy
-guidelines: POSIX compliance with few exceptions like the use of
-'local' keyword. For this reason the manual page announces
-'Policy-compliant Ordinary SHell'.
+use features that most /bin/sh shells do not have.
 
 CHANGES SINCE LAST RELEASE
 ==========================
