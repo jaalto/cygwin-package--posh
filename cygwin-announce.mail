@@ -6,7 +6,7 @@ PACKAGE DESCRIPTION
 ===================
 
 Homepage: http://packages.debian.org/unstable/posh
-License : GPL
+License : GPL-2+
 
 A stripped-down version of pdksh that aims for close compliance of
 POSIX. Posh is intended to be used for revealing if /bin/sh scripts

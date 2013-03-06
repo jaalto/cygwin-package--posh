@@ -37,7 +37,7 @@ Upstream contact:
   Bugs: Clint Adams <schizo@debian.org>
 
 License:
-  GPL
+  GPL-2+
   Contains code from pdksh 5.2.14, which is "in the public domain."
 
 Language:
