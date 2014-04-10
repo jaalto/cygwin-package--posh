@@ -1,2 +1,2 @@
 tag1: posh
-  http://packages.debian.org/unstable/posh pregexp:tar.gz file:posh_0.6.tar.gz new: x:
+  http://packages.debian.org/unstable/posh pregexp:tar.xz file:posh_0.12.1.tar.xz new: x:
